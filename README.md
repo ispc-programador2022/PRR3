@@ -62,21 +62,34 @@ también es un desafío, puesto al ser colaborativo sirve no solo para que todos
 MATERIAL DE SOPORTE 
 
 Como el proceso es autogestionado y el equipo docente no estará disponible para guiarlos en temas puntuales, es fundamental que vean todo el material de referencia que les dejamos a continuación, lo mismo que los invitamos a que busquen Uds. todo lo que necesiten en bibliotecas educativas y la web en su conjunto, para llevar el proyecto adelante. 
-Github 
+
 https://youtu.be/eQMcIGVc8N0 
+
 Web Scrapping 
-https://j2logo.com/python/web-scraping-con-python-guia-inicio-beautifulsoup/ Web Scraping con Python, utilizando para ello la librería Beautiful Soup 
+https://j2logo.com/python/web-scraping-con-python-guia-inicio-beautifulsoup/ Web Scraping con Python, utilizando para ello la librería Beautiful Soup
+
 https://youtu.be/kPNHKrOqedI 
+
 https://youtu.be/SuwCyiCLe8Y  (ejercicio scraping, comienza minuto 35 - muy importante minuto 55 a 1:05) 
+
 Html - etiquetas básicas 
+
 https://youtu.be/RafelMz450g 
+
 Kagle  
+
 https://youtu.be/NhHTWGIglRI 
+
 Conexión a BBDD desde Python - MySql y MongoDB 
+
 https://github.com/narcisoperez/21SemanaProgramacion_210521 
+
 https://github.com/narcisoperez/7SemanaBasedeDatos_300621 
+
 https://github.com/narcisoperez/8vaSemanaBase_de_Datos_070721 
+
 BD MySQL Phyton 
+
 https://youtu.be/Ch7xsRmaJCs 
 
 
